@@ -2,7 +2,7 @@
   "name": "advent-of-code-2022",
   "version": "1.0.0",
   "description": "Solutions tasks of Advent of Code 2022",
-  "author": "Ivan Andreev <nrivanandreev@yandex.ru>",
+  "author": "Ivan Andreev <mrivanandreev@yandex.ru>",
   "private": "true",
   "license": "ISC",
   "repository": {
@@ -11,6 +11,8 @@
   },
   "type": "module",
   "scripts": {
-    "day01": "node day-01/solution.js"
+    "day01": "node day-01/solution.js",
+    "day02:part1": "node day-02/solution-part-1.js",
+    "day02:part2": "node day-02/solution-part-2.js"
   }
 }

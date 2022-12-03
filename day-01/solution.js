@@ -1,7 +1,7 @@
 import { readFileSync } from 'node:fs';
 
 // PART 1
-export const getSortListOfCalories = (list) => {
+const getSortListOfCalories = (list) => {
   return list
     .split('\n\n')
     .map((items) => items.split('\n').reduce((acc, item) => acc + Number(item), 0))
