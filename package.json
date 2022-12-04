@@ -11,8 +11,9 @@
   },
   "type": "module",
   "scripts": {
-    "day01": "node day-01/solution.js",
-    "day02:part1": "node day-02/solution-part-1.js",
-    "day02:part2": "node day-02/solution-part-2.js"
+    "day01":        "node day-01/solution.js",
+    "day02:part1":  "node day-02/solution-part-1.js",
+    "day02:part2":  "node day-02/solution-part-2.js",
+    "day03":        "node day-03/solution.js"
   }
 }
