@@ -15,6 +15,7 @@
     "day02:part1":  "node day-02/solution-part-1.js",
     "day02:part2":  "node day-02/solution-part-2.js",
     "day03":        "node day-03/solution.js",
-    "day04":        "node day-04/solution.js"
+    "day04":        "node day-04/solution.js",
+    "day05":        "node day-05/solution.js"
   }
 }
